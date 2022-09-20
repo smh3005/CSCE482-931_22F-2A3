@@ -4,5 +4,5 @@ cd catkin_ws/src
 git clone https://github.com/kaigomes7/LeGO-LOAM.git
 cd ..
 catkin_make -j1
-source devel/source.bash
+source devel/setup.bash
 roslaunch lego_loam run.launch
