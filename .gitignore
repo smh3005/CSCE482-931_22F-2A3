@@ -1,3 +1,5 @@
 *.PLY
 *.ply
 KITTI_raw*
+*.bag
+*.pcd
